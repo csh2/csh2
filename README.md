@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csh2
 - 👀 I’m interested in code
-- 🌱 I’m currently learning how 㱇github
+- 🌱 I’m currently learning how use github
 - 💞️ I’m looking to collaborate on everybody
 
 <!---
